@@ -96,7 +96,7 @@
   *firstname.lastname@bourne-grammar.lincs.sch.uk*
 - Your teachers and the school will send you important information such as notices to your school email account.
 
-- Click on the *Mail* shortcut icon on the desktop. This will launch Outlook.
+- Click on the *Mail* shortcut icon on the bottom of your screen. This will launch Outlook.
 - Click on *Next* on the subsequent windows and check the email address is your own.
 
 ** Send Email on school computers
