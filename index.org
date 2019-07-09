@@ -12,7 +12,7 @@
   </div>
 
 #+END_HTML
-* [[file:pages/1_Lesson.html][1 - Login and Homedrive]]
+* [[file:pages/1_Lesson.html][1 - Login ID & Password]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
