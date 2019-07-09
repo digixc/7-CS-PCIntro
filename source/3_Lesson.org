@@ -19,6 +19,7 @@
       <li><a href="1_Lesson.html">Login</a></li>
       <li><a href="2_Lesson.html">Homedrive</a></li>
       <li><a href="3_Lesson.html">Filetypes</a></li>
+      <li><a href="5_Lesson.html">Upload Work For Marking</a></li>
       <li><a href="4_Lesson.html">Email</a></li>
     </ul>
   </div>
@@ -111,7 +112,7 @@
 - To see the file extensions of your file, you can following the step-by-step instructions as the images shown here:
 [[./img/fileExtensions.png]]
 [[./img/fileExtension2.png]]
-
+- The file extensions will have a *dot* in front it.   It is important to keep the *dot*.
 
 ** How to open a file with the correct software
 :PROPERTIES:
@@ -119,8 +120,8 @@
 :END: 
  
 - Most of the time, you can open a file using the correct software by just double clicking on it and your computer will be able to open it using the software of your desire.
-- But Some file types/extensions can be openned by many different software.  If you want to open it by using a speicific software not the default "double clicking" one, you can =right click= on the file and choose =open with= option to open it using one of the software from a list of choices.
-- If you fail to open it using above method, you can launch the software first and then choose to open the file from the desired software if you are sure the software can open it.
+- But some file types/extensions can be openned by many different software.  If you want to open it by using a speicific software not the default "double clicking" one, you can =right click= on the file and choose =open with= option to open it using one of the software from a list of choices.
+- If you fail to open it using above method, you can launch the dessoftware first and then choose to open the file from the desired software first if you are sure the software can open it.
 ** Think Time
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: try

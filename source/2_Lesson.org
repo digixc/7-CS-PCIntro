@@ -19,6 +19,7 @@
       <li><a href="1_Lesson.html">Login</a></li>
       <li><a href="2_Lesson.html">Homedrive</a></li>
       <li><a href="3_Lesson.html">Filetypes</a></li>
+      <li><a href="5_Lesson.html">Upload Work For Marking</a></li>
       <li><a href="4_Lesson.html">Email</a></li>
     </ul>
   </div>
@@ -122,6 +123,6 @@
    [[./img/newFolder.png]]
   2. Step 2: Rename your folder from the default "New folder" to "Computer Science" then hit enter
    [[./img/newFolder2.png]]
-  3. Repeat the above step to create another folder call "Design Engineering"
-  4. Double click on the new "Computer Science" folder to go into it.  Then repeat the step 1&2 to create a folder called "Year 7" inside the "Computer Science".
+  3. Repeat the above step to create another folder called "Design Engineering"
+  4. Double click on the new "Computer Science" folder to go into it.  Then repeat the step 1&2 to create a folder called "Year 7" inside the "Computer Science" folder.
   5. Try to come back to your home drive by clicking on the "This PC" on the left pane of the Window Explorer and see if you can navigate to the  "Design Engineering" folder you have created and go inside it to also create "Year 7" folder.
