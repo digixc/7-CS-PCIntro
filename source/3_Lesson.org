@@ -1,0 +1,128 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+HTML_HEAD_EXTRA: <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+#+HTML_HEAD_EXTRA: <script src="js/navbar.js" type="text/javascript"></script>
+#+HTML_HEAD_EXTRA: <script src="js/strikeThrough.js" type="text/javascript"></script>
+#+OPTIONS: f:nil author:AUTHOR num:1 creator:AUTHOR timestamp:nil toc:nil html-style:nil html-postamble:nil
+#+TITLE: File Types
+#+AUTHOR: X Ellis
+
+#+BEGIN_HTML
+  <div class="github-fork-ribbon-wrapper left">
+    <div class="github-fork-ribbon">
+      <a href="https://github.com/digixc/8-CS-ProblemSolving">Fork me on GitHub</a>
+    </div>
+  </div>
+<div id="stickyribbon">
+    <ul>
+      <li><a href="1_Lesson.html">Login</a></li>
+      <li><a href="2_Lesson.html">Homedrive</a></li>
+      <li><a href="3_Lesson.html">Filetypes</a></li>
+      <li><a href="4_Lesson.html">Email</a></li>
+    </ul>
+  </div>
+#+END_HTML
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+* File types
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+
+** What is a file and what is file type?
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END: 
+- *A file* is a piece of saved work with a name on a computer 
+- A file has a =name= and a =type=. In your file explorer windown, you will see a list of folders and files.  The names, types and date created can be seen as shown in the following image:
+[[./img/fileTypes1.png]]
+- You can click on the name, or the type or the date created tab to sort the files by their name, their types or date created.
+- =A file type= identifies what software or app or program can be used to open it. For example, the above file ="Week1-SilverTaski" is a MicroSoft Word Document, therefore can be openned by MicroSoft Word.
+
+** File types and file extensions
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END: 
+- As you have seen from above image, the files have different types so we know which app, or software can be used to open them. 
+- When you double click on a file, your computer will normally opens the file using the correct software by using a piece of information called =file extension= to help it decide which application to use to open it.
+- This =file extension= is part of the file name but it is normally hidden from you. 
+- To see the file extensions of your file, you can following the step-by-step instructions as the images shown here:
+[[./img/fileExtensions.png]]
+[[./img/fileExtension2.png]]
+
+
+** How to open a file with the correct software
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END: 
+ 
+- Most of the time, you can open a file using the correct software by just double clicking on it and your computer will be able to open it using the software of your desire.
+- But Some file types/extensions can be openned by many different software.  If you want to open it by using a speicific software not the default "double clicking" one, you can =right click= on the file and choose =open with= option to open it using one of the software from a list of choices.
+- If you fail to open it using above method, you can launch the software first and then choose to open the file from the desired software if you are sure the software can open it.
+** Think Time
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END: 
+ - What happens if you change the file extension of a file to something else? For example, a file with the name "myWork.docx" to "myWork.html", will it open by double clicking on it, by Microsoft Word?

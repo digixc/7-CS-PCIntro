@@ -1,0 +1,127 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+HTML_HEAD_EXTRA: <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+#+HTML_HEAD_EXTRA: <script src="js/navbar.js" type="text/javascript"></script>
+#+HTML_HEAD_EXTRA: <script src="js/strikeThrough.js" type="text/javascript"></script>
+#+OPTIONS: f:nil author:AUTHOR num:1 creator:AUTHOR timestamp:nil toc:nil html-style:nil html-postamble:nil
+#+TITLE: Get organised with folders
+#+AUTHOR: X Ellis
+
+#+BEGIN_HTML
+  <div class="github-fork-ribbon-wrapper left">
+    <div class="github-fork-ribbon">
+      <a href="https://github.com/digixc/8-CS-ProblemSolving">Fork me on GitHub</a>
+    </div>
+  </div>
+<div id="stickyribbon">
+    <ul>
+      <li><a href="1_Lesson.html">Login</a></li>
+      <li><a href="2_Lesson.html">Homedrive</a></li>
+      <li><a href="3_Lesson.html">Filetypes</a></li>
+      <li><a href="4_Lesson.html">Email</a></li>
+    </ul>
+  </div>
+#+END_HTML
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+* Your Home Drive OR the H Drive
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+
+** Access your home drive
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END: 
+- Once you logged in using your username and password, it is time to get to know your own space, *the home drive (H drive)* on your school computer.
+- *Your home drive* is your own private disk space for you to save all your work, either for your *Computer Science* or *Design Engineering* or other subjects.
+- It is very important to organise your work in your homedrive so you know how to access them quickly.
+- Your *home drive* can be accessed by one of the following ways:
+  1. method 1: from the Window explorer on the task bar
+   [[./img/fileExplorer.png]]
+  2. Method 2: from the Start menu 
+  3. Method 3: press the Windows logo key + E on your keyboard
+
+- Once you launch you open the Window explorer, you should see something like this:
+[[./img/thePC.png]]
+- Double click on the drive with your username (BGS login name) on it to open it.
+
+
+** Organis your work in your home drive
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END: 
+
+- You are going to be studying at BSG for severals and on many subjects.
+- Your Computer Science and Design Engneering teachers require you to work on computers, save your work on your home drive and submit your work online.
+- The best way to organise your work through for the years to come is to use folders and give those folders some meaningful, purposeful names. For example, you may create a folder with the name "Computer Science" and inside this folder you can then add more folders for each year.
+- Lets create some folders by following the step-by-step instructions below:
+  1. Step 1: open Window explorer, then
+   [[./img/newFolder.png]]
+  2. Step 2: Rename your folder from the default "New folder" to "Computer Science" then hit enter
+   [[./img/newFolder2.png]]
+  3. Repeat the above step to create another folder call "Design Engineering"
+  4. Double click on the new "Computer Science" folder to go into it.  Then repeat the step 1&2 to create a folder called "Year 7" inside the "Computer Science".
+  5. Try to come back to your home drive by clicking on the "This PC" on the left pane of the Window Explorer and see if you can navigate to the  "Design Engineering" folder you have created and go inside it to also create "Year 7" folder.
