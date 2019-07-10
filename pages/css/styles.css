@@ -286,6 +286,13 @@ h3 {
   width: 100%;
   border-top: 3px dotted #741371;
 }
+/* CSS for checkbox */
+.checkItem {
+  border-left: 15px solid red;
+  box-shadow: 5px 10px 8px 10px #888888;
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
 /*CSS FOR LISTS*/
 .org-ul li:before {
   clear: none;

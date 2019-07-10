@@ -111,6 +111,17 @@
   2. Click on Change a password.
 [[./img/changePassword.png]]
 
+** Log off to keep your work safe
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END: 
+- It is a good practice to keep your account private by not giving your password to others.
+- It is also good idea to log off or sign out so others cannot access your work when you finish using your computer. 
+- You can log off via one of the following methods:
+  1. click on the Window sign as shown below:
+   [[./img/signOut.png]]
+  2. press CTRL+ALT+DELETE, then choose "*Sign Out*"
+
 ** The website where you will submit your work
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn

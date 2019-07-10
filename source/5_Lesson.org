@@ -5,7 +5,7 @@
 #+HTML_HEAD_EXTRA: <script src="js/navbar.js" type="text/javascript"></script>
 #+HTML_HEAD_EXTRA: <script src="js/strikeThrough.js" type="text/javascript"></script>
 #+OPTIONS: f:nil author:AUTHOR num:1 creator:AUTHOR timestamp:nil toc:nil html-style:nil html-postamble:nil
-#+TITLE: Submit Work Exercises
+#+TITLE: Use Your School Email
 #+AUTHOR: X Ellis
 
 #+BEGIN_HTML
@@ -17,10 +17,11 @@
 <div id="stickyribbon">
     <ul>
       <li><a href="1_Lesson.html">Login</a></li>
-      <li><a href="2_Lesson.html">Folders</a></li>
-      <li><a href="3_Lesson.html">Filetypes</a></li>
-      <li><a href="5_Lesson.html">Upload Working For Marking</a></li>
-      <li><a href="4_Lesson.html">Email</a></li>
+      <li><a href="2_Lesson.html">Homedrive</a></li>
+      <li><a href="3_Lesson.html">Get Around</a></li>
+      <li><a href="4_Lesson.html">Filetypes</a></li>
+      <li><a href="6_Lesson.html">Upload Work For Marking</a></li>
+      <li><a href="5_Lesson.html">Email</a></li>
 
     </ul>
   </div>
@@ -88,35 +89,47 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: save
 :END:
-* A step-by-step guide for submitting your work
+* Use School Email For Good Reasons
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
+- You will be given a school email address and an email account when you join BGS
+- Your email address has the format of:
+  *firstname.lastname@bourne-grammar.lincs.sch.uk*
+- Your teachers and the school will send you important information such as notices to your school email account.
 
-- During Computer Science lessons, you are required to submit your work online to be marked by your teachers.
-- The place you upload your work is www.bournetolearn.com
-- You can upload your work at school and at home, using school computer or home computer, or your phone.
+- Click on the *Mail* shortcut icon on the bottom of your screen. This will launch Outlook.
+- Click on *Next* on the subsequent windows and check the email address is your own.
 
-** Step 1: Prepare your work for uploading
+** Send Email on school computers
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: try
 :END: 
-- If you have work that is only one page long, it would be best to take a screenshot of it and upload as image.
-- Regardless of screenshot or not, you need to save your work in its original format/file type.  For examples, you wrote one page in Microsoft Word, you MUST save it as a ".docx" file first so when you teacher gives your feedback on how to improve, you can open it again in Word and edit it.
-- Always save your work using meaningful file name, such as "week1-silver", "hangmanGame" etc.
-- You can take a screenshot using the software called "snipping tool":
-snipping tool launch imahge
+- From any mail folder (such as your Inbox), choose New Email. Or *Keyboard shortcut*: To create an email message, press *Ctrl+Shift+M*.
+[[./img/newMail.png]]
+- A new email composing window will open.
+[[./img/compose-send-outlook-email.jpg]]
+- The first thing you'll need to fill out on the New Messages window is the email header information. This consists of the following fields:
 
+  - *To*. The To field contains the email address or addresses you're sending the email message to.
+  - *Cc*. In this field you can include additional email recipients.
+  - *Subject*. The Subject field contains a brief description of your email topic.
 
-** Step 2: Upload your work
+- Next, you want to identify who you're sending the email message to using the *To* field. You can do this is one of two ways:
+
+  - Type the email address in the field. If there's more than one email address, use a comma to separate them.
+  - Click the *To* field to search any email address at BGS. Select the contacts you want to send the message to from *the Select Names: Contacts dialog box*.
+  - Here's a look at the *Select Names: Contacts dialog box*:
+
+** Send Email on school computers with file attachment
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: try
 :END: 
-- To upload your work:
-  1. Log in to www.bournetolearn.com using your normal BGS login ID and password
-     [[./img/BTL-login.png]]
-  2. click on the unit your work is about on the left side pane
-     [[./img/BTL-upload1.png]]
-  3. locate the task on the right side and click on the blue arrow
-    [[./img/BTL-upload2.png]]
-  4. Repeat step 3 if you have more than one file to upload to the same place
+
+- Sometimes, you may need to send your homework to your teacher or your notes to your friends.
+- To do this, open a new email composing window by choosing New Email. Or *Keyboard shortcut*:  *Ctrl+Shift+M*.
+- Follow the steps above to type in or find your recipient's email address.
+- You can easily attach a file or item to your message using the Attach File icon or the Attach Item icon. Click on *Attach File* and navigate to the file that you like to send.
+ [[./img/attachToEmail.jpg]]
+
+

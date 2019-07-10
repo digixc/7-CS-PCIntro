@@ -103,7 +103,8 @@
   1. method 1: from the *File explorer* on the task bar
    [[./img/fileExplorer.png]]
   2. Method 2: press the Windows logo key + E on your keyboard
-  3. Method 3: from the Start menu, then the magifier glass symbol, type *H:* in the search bar.
+  3. Method 3: from the Start menu, then the magifier glass symbol, type *file explorer* in the search bar.
+     [[./img/searchBar2.png]]
 
 - Once you open the File explorer, you should see something like the image shown below.
 
@@ -120,11 +121,11 @@
 - The best way to organise your work through for the years to come is to use *folders* and give those folders some meaningful, purposeful names. For example, you may create a folder with the name "Computer Science" and inside this folder you can then add more folders for each year.
 - Lets create some folders by following the step-by-step instructions below:
   1. Step 1: open File explorer, then click on the circled places shown below
-   [[./img/newFolder.png]]  
- 2. Step 2: Rename your folder from the default "New folder" to "Computer Science" by clicking on it once then replace it with a new name, then hit enter
-   [[./img/newFolder2.png]]
-  3. Repeat the above step to create another folder called "Design Engineering"
-  4. Double click on the new "Computer Science" folder to go into it.  Then repeat the step 1&2 to create a folder called "Year 7" inside the "Computer Science" folder.
+    [[./img/newFolder.png]]  
+  2. Step 2: Rename your folder from the default "New folder" to "Computer Science" by clicking on it once then replace it with a new name, then hit enter
+      [[./img/newFolder2.png]]
+  3. Double click on the new "Computer Science" folder to go into it.  Then repeat the step 1&2 to create a folder called "Year 7" inside the "Computer Science" folder.
+  4. Repeat the above step to create another folder called "Design Engineering"
   5. Try to come back to your home drive by clicking on the "This PC" on the left pane of the File explorer and see if you can navigate to the  "Design Engineering" folder you have created and go inside it to also create a "Year 7" folder.
-6. After you have followed the above steps you should have something like this:
+
 `
