@@ -5,6 +5,7 @@
 #+HTML_HEAD_EXTRA: <script src="js/navbar.js" type="text/javascript"></script>
 #+HTML_HEAD_EXTRA: <script src="js/strikeThrough.js" type="text/javascript"></script>
 #+OPTIONS: f:nil author:AUTHOR num:1 creator:AUTHOR timestamp:nil toc:nil html-style:nil html-postamble:nil
+#+ATTR_HTML: :target _blank
 #+TITLE: Login, Password
 #+AUTHOR: X Ellis
 
@@ -115,5 +116,5 @@
 :HTML_CONTAINER_CLASS: learn
 :END: 
 - Your school login ID and password will also be used for a website where you will submit your work almost every lesson for "Computer Science" and "Design Engineering"
-- Click on[[https://www.bournetolearn.com][ www.bournetolearn.com]] and log in using your BGS login ID and passowrd to see what the site looks like. You should see something similar to the following:
+- Click on [[https://www.bournetolearn.com][www.bournetolearn.com]] and log in using your BGS login ID and passowrd to see what the site looks like. You should see something similar to the following:
 [[./img/BTL.png]]
