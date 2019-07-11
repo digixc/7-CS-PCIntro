@@ -88,28 +88,108 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: save
 :END:
-* File types
+* Progress Check
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
 
-** Key Points Check 1 - tick if you have done the item
+** Key Points Check 1 - tick if you have finished the item in the list
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: key
 :END: 
 
  - Lets do some exercises on find your way around your computer at school.
- - Tick each task when you successfully done it in the following list.
+ - Tick each task when you have successfully done it in the following list.
 #+BEGIN_HTML html
 <div class='checkItem'>
-<input type='checkbox'> You have created all the ASCII art stages<br>
-<input type='checkbox' > You have created a list variable <em>stage</em> that has all the stage variables<br>
-<input type='checkbox' > You have checked each stage can be printed out correctly<br>
+<input type='checkbox'> You can open a <em>File epxlorer</em><br>
+<input type='checkbox' > You have created at least two folders in your home drive- <em>"Computer Science"</em> and  <em>"Design Engineering"</em><br>
+<input type='checkbox' > You have created another folder inside the <em>"Computer Science"</em> called "Year 7"<br>
 </div>
 #+END_HTML
 
-** Try it
+* Launch app(lication), software or program
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+- App, program and software are the same thing. For example, the broswer you are using now is a software, or app or a program.
+- At BGS, we are going to use many different programs, especially in "Computer Science" and "Design Engineering".
+** Try it - open a software or app or program from desktop
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: try
 :END: 
-- coming
+
+- Most of those software can be found at your desktop. You can access your desktop:
+  1. Using your keyboard: press Windows + D to quickly access your desktop.
+  2. in File explorer, click on the *Desktop* in the left panel.
+- Lets try the following tasks:
+
+#+BEGIN_HTML html
+<p><b> Tick each task when you have successfully done it in the following list.</b></p>
+<div class='checkItem'>
+<input type='checkbox'> You can access your <em>Desktop</em><br>
+<input type='checkbox' > You have successfully openned Microsoft Word by double clicking on it<br>
+<input type='checkbox' > You have successfully closed Microsoft Word<br>
+<input type='checkbox' > You have successfully openned your Desktop from a File explorer window<br>
+</div>
+#+END_HTML
+
+** Try it - Save your work 
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END: 
+- It is very important to save your work, so you can change it later and upload for your teachers to mark
+
+- Lets try the following tasks:
+
+#+BEGIN_HTML html
+<p><b> Tick each task when you have successfully done it in the following list.</b></p>
+<div class='checkItem'>
+
+<input type='checkbox' > Open Microsoft Word<br>
+<input type='checkbox' > Click on<em> "Blank Document" </em> or click on <em>"File"</em> then <em>"New"</em> to open up a blank word document<br>
+<input type='checkbox' > Type anything a list of subjects<br>
+<input type='checkbox'> Click <em>"File",  "Save As"</em> then <em>"Browse"</em> to navigate to your folder "Computer Science" to save your work. Give your file a meaningful name by replacing the "Doc1" with "list of subjects". Leave the ".docx" alone<br>
+<input type='checkbox' > Close Microsoft Word<br>
+</div>
+#+END_HTML
+
+
+** Try it - Open your saved work for editing
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END: 
+
+- Lets try the following tasks:
+
+#+BEGIN_HTML html
+<p><b> Tick each task when you have successfully done it in the following list.</b></p>
+<div class='checkItem'>
+<input type='checkbox'>  Navigate to your folder "Computer Science". <br>
+<input type='checkbox' > Find the file you have saved from above exercise and double clickon it to open it in Microsoft Word<br>
+<input type='checkbox' >change something to the list of subjects<br>
+<input type='checkbox' > Click <em>"File",  "Save" to save the updated file</em> <br>
+<input type='checkbox' > Close Microsoft Word<br>
+</div>
+#+END_HTML
+
+** Try it - Open two *File explorers" windows to move or copy file across
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END: 
+- After you have open one *File explorer" window using one of the methods shown in the previous lesson, repeat the step and open the second *File explorer" window and drag them so they will be side by side.
+- On one of the window, go to your "Computer Science" folder, on the second window, go to your "Design Engineering" folder.
+
+#+BEGIN_HTML html
+<p><b> Tick each task when you have successfully done it in the following list.</b></p>
+
+<div class='checkItem'>
+<p>Move a file</p>
+<input type='checkbox'> - From the "Computer Science" folder, find the file "subject list" and drag it to the "Design Engineering" folder on the second File explorer window. <br>
+<p>Copy a file - method 1</p>
+<input type='checkbox' >- From the  "Design Engineering" folder, find the file "subject list" and right click, then select "Copy" to copy it. Go to the "Computer Science" folder on the first File explorer window, right click any blank space inside the window, then select "Paste". <br>
+<p>Copy a file - method 2</p>
+<input type='checkbox' >- From the  "Design Engineering" folder, find the file "subject list" and click it, then press CTRL+C to copy it. Go to the "Computer Science" folder on the first File explorer window, then press CTRL+V to paste it. <br>
+</div>
+#+END_HTML
+

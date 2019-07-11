@@ -293,6 +293,9 @@ h3 {
   padding-left: 20px;
   padding-bottom: 10px;
 }
+.checkItem input {
+  padding: 20px;
+}
 /*CSS FOR LISTS*/
 .org-ul li:before {
   clear: none;
