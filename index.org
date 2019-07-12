@@ -20,10 +20,11 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:      
-* [[file:pages/3_Lesson.html][3 - Get Aound]]
+* [[file:pages/3_Lesson.html][3 - Get Around]]
+
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
-:END:    
+:END:
 * [[file:pages/3_Lesson.html][4 - File Types]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading

@@ -19,9 +19,10 @@
     <ul>
       <li><a href="1_Lesson.html">Login</a></li>
       <li><a href="2_Lesson.html">Homedrive</a></li>
-      <li><a href="3_Lesson.html">Filetypes</a></li>
-      <li><a href="5_Lesson.html">Upload work for marking</a></li>
-      <li><a href="4_Lesson.html">Email</a></li>
+<li><a href="3_Lesson.html">Gert Around</a></li>
+      <li><a href="4_Lesson.html">Filetypes</a></li>
+      <li><a href="6_Lesson.html">Upload work for marking</a></li>
+      <li><a href="5_Lesson.html">Email</a></li>
     </ul>
   </div>
 #+END_HTML
@@ -121,7 +122,10 @@
   1. click on the Window sign as shown below:
    [[./img/signOut.png]]
   2. press CTRL+ALT+DELETE, then choose "*Sign Out*"
-
+* COMMENT
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: 
+:END: 
 ** The website where you will submit your work
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn

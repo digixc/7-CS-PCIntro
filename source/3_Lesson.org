@@ -112,7 +112,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
-- App, program and software are the same thing. For example, the broswer you are using now is a software, or app or a program.
+- App, program and software are the same thing. For example, the broswer you are using now is a software, or app or a program. App is short for application.
 - At BGS, we are going to use many different programs, especially in "Computer Science" and "Design Engineering".
 ** Try it - open a software or app or program from desktop
 :PROPERTIES:
@@ -121,7 +121,7 @@
 
 - Most of those software can be found at your desktop. You can access your desktop:
   1. Using your keyboard: press Windows + D to quickly access your desktop.
-  2. in File explorer, click on the *Desktop* in the left panel.
+  2. In File explorer, click on the *Desktop* in the left panel.
 - Lets try the following tasks:
 
 #+BEGIN_HTML html
