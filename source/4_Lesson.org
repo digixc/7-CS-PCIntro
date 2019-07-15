@@ -128,3 +128,12 @@
 :HTML_CONTAINER_CLASS: try
 :END: 
  - What happens if you change the file extension of a file to something else? For example, a file with the name "myWork.docx" to "myWork.html", will it open by double clicking on it, by Microsoft Word?
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: platinum
+:END: 
+- Open a word document
+- Write down a list of minimum 5 file types/extensions you know
+- For each file types/extension, briefly describe what type it is and which application/software can open it.
+- If you cannot find 5 types, try to open some applications on the desktop and save a file in it to see what file type you can get.
+- Once done the list with dscription, take a screenshot and upload to www.bournetolearn.com

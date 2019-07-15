@@ -130,3 +130,10 @@
   5. Try to come back to your home drive by clicking on the "This PC" on the left pane of the File explorer and see if you can navigate to the  "Design Engineering" folder you have created and go inside it to also create a "Year 7" folder.
 
 `
+** Badge it
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: gold
+:END: 
+- Create a folder called *Into to PC* inside your *Computer Science* folder in your home drive
+- Take a screenshot of your new folder and save the screenshot to your new folder
+- Upload the screenshot by going to [[https://www.bournetolearn.com]] and log in using your BGS login ID and password.

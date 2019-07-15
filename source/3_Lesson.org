@@ -107,7 +107,7 @@
 <input type='checkbox' > You have created another folder inside the <em>"Computer Science"</em> called "Year 7"<br>
 </div>
 #+END_HTML
-* Split the screen to make your life easier
+* Split the computer screen to make your life easier
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
@@ -203,3 +203,11 @@
 </div>
 #+END_HTML
 
+
+** Badge it
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: gold
+:END:
+- Take a screenshot of your folder with the saved file with the list of subjects you have created early.
+- Save your screenshot inside the folder "Intro to PC" 
+- Upload the screenshot to https://www.bournetolearn.com at the correct place
