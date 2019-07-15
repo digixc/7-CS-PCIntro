@@ -107,6 +107,14 @@
 <input type='checkbox' > You have created another folder inside the <em>"Computer Science"</em> called "Year 7"<br>
 </div>
 #+END_HTML
+* Split the screen to make your life easier
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
++ For the activities follow, you will open at least two programs at the same time: the browser where you can read this instruction and the File explorer window to accee your home drive.
++ It would be very nice if you can have this bowser window and the File explorer window side by side so they don't overlap.
++ To do this, you just drag one of the windows to one side of the screen and the click on the other window as shown in the following animation:
+  [[./img/snap-windows.gif]]
 
 * Launch app(lication), software or program
 :PROPERTIES:
@@ -122,13 +130,15 @@
 - Most of those software can be found at your desktop. You can access your desktop:
   1. Using your keyboard: press Windows + D to quickly access your desktop.
   2. In File explorer, click on the *Desktop* in the left panel.
+    [[./img/thePC2.PNG]]
+
 - Lets try the following tasks:
 
 #+BEGIN_HTML html
 <p><b> Tick each task when you have successfully done it in the following list.</b></p>
 <div class='checkItem'>
 <input type='checkbox'> You can access your <em>Desktop</em><br>
-<input type='checkbox' > You have successfully openned Microsoft Word by double clicking on it<br>
+<input type='checkbox' > After going to Desktop, you have successfully openned Microsoft Word by double clicking on it<br>
 <input type='checkbox' > You have successfully closed Microsoft Word<br>
 <input type='checkbox' > You have successfully openned your Desktop from a File explorer window<br>
 </div>
