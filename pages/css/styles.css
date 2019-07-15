@@ -294,7 +294,7 @@ h3 {
   padding-bottom: 10px;
 }
 .checkItem input {
-  padding: 20px;
+  margin: .6rem;
 }
 /*CSS FOR LISTS*/
 .org-ul li:before {
