@@ -8,7 +8,7 @@
 #+TITLE: Get Around Your Computer
 #+AUTHOR: X Ellis
 
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
   <div class="github-fork-ribbon-wrapper left">
     <div class="github-fork-ribbon">
       <a href="https://github.com/digixc/8-CS-ProblemSolving">Fork me on GitHub</a>
@@ -24,7 +24,8 @@
       <li><a href="5_Lesson.html">Email</a></li>
     </ul>
   </div>
-#+END_HTML
+#+END_EXPORT
+
 * COMMENT Use as a template
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -100,13 +101,15 @@
 
  - Lets do some exercises on find your way around your computer at school.
  - Tick each task when you have successfully done it in the following list.
-#+BEGIN_HTML html
+#+BEGIN_EXPORT html
+
 <div class='checkItem'>
 <input type='checkbox'> You can open a <em>File epxlorer</em><br>
 <input type='checkbox' > You have created at least two folders in your home drive- <em>"Computer Science"</em> and  <em>"Design Engineering"</em><br>
 <input type='checkbox' > You have created another folder inside the <em>"Computer Science"</em> called "Year 7"<br>
 </div>
-#+END_HTML
+#+END_EXPORT
+
 * Split the computer screen to make your life easier
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -134,7 +137,7 @@
 
 - Lets try the following tasks:
 
-#+BEGIN_HTML html
+#+BEGIN_EXPORT html
 <p><b> Tick each task when you have successfully done it in the following list.</b></p>
 <div class='checkItem'>
 <input type='checkbox'> You can access your <em>Desktop</em><br>
@@ -142,7 +145,7 @@
 <input type='checkbox' > You have successfully closed Microsoft Word<br>
 <input type='checkbox' > You have successfully openned your Desktop from a File explorer window<br>
 </div>
-#+END_HTML
+#+END_EXPORT
 
 ** Try it - Save your work 
 :PROPERTIES:
@@ -152,7 +155,8 @@
 
 - Lets try the following tasks:
 
-#+BEGIN_HTML html
+#+BEGIN_EXPORT html
+
 <p><b> Tick each task when you have successfully done it in the following list.</b></p>
 <div class='checkItem'>
 
@@ -162,7 +166,7 @@
 <input type='checkbox'> Click <em>"File",  "Save As"</em> then <em>"Browse"</em> to navigate to your folder "Computer Science" to save your work. Give your file a meaningful name by replacing the "Doc1" with "list of subjects". Leave the ".docx" alone<br>
 <input type='checkbox' > Close Microsoft Word<br>
 </div>
-#+END_HTML
+#+END_EXPORT
 
 
 ** Try it - Open your saved work for editing
@@ -172,7 +176,8 @@
 
 - Lets try the following tasks:
 
-#+BEGIN_HTML html
+#+BEGIN_EXPORT html
+
 <p><b> Tick each task when you have successfully done it in the following list.</b></p>
 <div class='checkItem'>
 <input type='checkbox'>  Navigate to your folder "Computer Science". <br>
@@ -181,7 +186,7 @@
 <input type='checkbox' > Click <em>"File",  "Save" to save the updated file</em> <br>
 <input type='checkbox' > Close Microsoft Word<br>
 </div>
-#+END_HTML
+#+END_EXPORT
 
 ** Try it - Open two *"File explorers"* windows to move or copy file across
 :PROPERTIES:
@@ -190,7 +195,8 @@
 - After you have open one *File explorer" window using one of the methods shown in the previous lesson, repeat the step and open the second *File explorer" window and drag them so they will be side by side.
 - On one of the window, go to your "Computer Science" folder, on the second window, go to your "Design Engineering" folder.
 
-#+BEGIN_HTML html
+#+BEGIN_EXPORT html
+
 <p><b> Tick each task when you have successfully done it in the following list.</b></p>
 
 <div class='checkItem'>
@@ -201,7 +207,7 @@
 <p>Copy a file - method 2</p>
 <input type='checkbox' >- From the  "Design Engineering" folder, find the file "subject list" and click it, then press CTRL+C to copy it. Go to the "Computer Science" folder on the first File explorer window, then press CTRL+V to paste it. <br>
 </div>
-#+END_HTML
+#+END_EXPORT
 
 
 ** Badge it

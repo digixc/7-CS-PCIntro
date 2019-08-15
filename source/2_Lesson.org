@@ -8,7 +8,7 @@
 #+TITLE: Get organised with folders
 #+AUTHOR: X Ellis
 
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
   <div class="github-fork-ribbon-wrapper left">
     <div class="github-fork-ribbon">
       <a href="https://github.com/digixc/8-CS-ProblemSolving">Fork me on GitHub</a>
@@ -24,7 +24,8 @@
       <li><a href="5_Lesson.html">Email</a></li>
     </ul>
   </div>
-#+END_HTML
+#+END_EXPORT
+
 * COMMENT Use as a template
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
