@@ -120,7 +120,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
-- App, program and software are the same thing. For example, the broswer you are using now is a software, or app or a program. App is short for application.
+- App, program and software are the same thing. For example, the browser you are using now is a software, or app or a program. App is short for application.
 - At BGS, we are going to use many different programs, especially in "Computer Science" and "Design Engineering".
 ** Try it - open a software or app or program from desktop
 :PROPERTIES:
@@ -183,7 +183,7 @@
 </div>
 #+END_HTML
 
-** Try it - Open two *File explorers" windows to move or copy file across
+** Try it - Open two *"File explorers"* windows to move or copy file across
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: try
 :END: 
@@ -209,5 +209,5 @@
 :HTML_CONTAINER_CLASS: gold
 :END:
 - Take a screenshot of your folder with the saved file with the list of subjects you have created early.
-- Save your screenshot inside the folder "Intro to PC" 
+- Save your screenshot inside the folder *"Intro to PC"*
 - Upload the screenshot to https://www.bournetolearn.com at the correct place

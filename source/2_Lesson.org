@@ -19,7 +19,7 @@
       <li><a href="1_Lesson.html">Login</a></li>
       <li><a href="2_Lesson.html">Homedrive</a></li>
       <li><a href="3_Lesson.html">Get Around</a></li>
- <li><a href="4_Lesson.html">Filetypes</a></li>
+      <li><a href="4_Lesson.html">Filetypes</a></li>
       <li><a href="6_Lesson.html">Upload Work For Marking</a></li>
       <li><a href="5_Lesson.html">Email</a></li>
     </ul>
@@ -119,15 +119,15 @@
 
 - You are going to be studying at BSG for several years and on many subjects.
 - Your Computer Science and Design Engneering teachers require you to work on computers, save your work on your home drive and submit your work online.
-- The best way to organise your work through for the years to come is to use *folders* and give those folders some meaningful, purposeful names. For example, you may create a folder with the name "Computer Science" and inside this folder you can then add more folders for each year.
+- The best way to organise your work through the years to come is to use *folders* and give those folders some meaningful, purposeful names. For example, you may create a folder with the name *"Computer Science"* and inside this folder you can then add more folders for each year.
 - Lets create some folders by following the step-by-step instructions below:
   1. Step 1: open File explorer, then click on the circled places shown below
     [[./img/newFolder.png]]  
-  2. Step 2: Rename your folder from the default "New folder" to "Computer Science" by clicking on it once then replace it with a new name, then hit enter
+  2. Step 2: Rename your folder from the default *"New folder"* to *"Computer Science"* by clicking on it once then replace it with a new name, then hit enter
       [[./img/newFolder2.png]]
-  3. Double click on the new "Computer Science" folder to go into it.  Then repeat the step 1&2 to create a folder called "Year 7" inside the "Computer Science" folder.
-  4. Repeat the above step to create another folder called "Design Engineering"
-  5. Try to come back to your home drive by clicking on the "This PC" on the left pane of the File explorer and see if you can navigate to the  "Design Engineering" folder you have created and go inside it to also create a "Year 7" folder.
+  3. Double click on the new *"Computer Science"* folder to go into it.  Then repeat the step 1&2 to create a folder called *"Year 7"* inside the *"Computer Science"* folder.
+  4. Repeat the above step to create another folder called *"Design Engineering"*
+  5. Try to come back to your home drive by clicking on the *"This PC"* on the left pane of the File explorer and see if you can navigate to the  *"Design Engineering"* folder you have created and go inside it to also create a *"Year 7"* folder.
 
 `
 ** Badge it
